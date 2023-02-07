@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "The updated merging school is open!"
-=======
-echo "The second updated school is open!"
->>>>>>> master
+echo "The school is open!"
